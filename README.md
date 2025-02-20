@@ -1,5 +1,13 @@
 # NBC/NXC to NXT compiler
 
+## Estrategia para reuso de material didactico
+
+### Modelos NXT
+- [NXTPrograms](https://www.nxtprograms.com/index.html)
+
+### Reusar los motores NXT
+- [Tutorial YT](https://www.youtube.com/watch?v=Grg6tPpbUDM)
+
 Adapted from [Bricxcc](https://sourceforge.net/projects/bricxcc/) by John Hansen (see <http://bricxcc.sourceforge.net/nbc/>).
 This is based on the latest available release, [1.2.1.r4](https://sourceforge.net/projects/bricxcc/files/NBC_NXC/NBC%20release%201.2.1%20r4/).
 I just tried to compile it on a up-to-date Linux distribution (because this is the target language of my compiler project for a CS lesson), because the provided Linux binary was not working anymore.
@@ -13,7 +21,7 @@ Also, I'm not supporting **Windows** and **Mac** compilation at the moment (but 
 
 ## Compile that in Linux
 
-**Note**: on Uuntu, [there is also a `nbc` package](https://packages.ubuntu.com/xenial/electronics/nbc) if you prefer. The one in Fedora is a bit outdated, so this explain why I tried to compile it.
+**Note**: on Ubuntu, [there is also a `nbc` package](https://packages.ubuntu.com/xenial/electronics/nbc) if you prefer. The one in Fedora is a bit outdated, so this explain why I tried to compile it.
 
 + Check your package distribution for something that looks like `fpc` and install it, or go to the page for the [latest version of the compiler](https://sourceforge.net/projects/freepascal/files/Linux/3.0.4/), download and install what corresponds to your distribution ;
 + Check your package distribution for something that looks like `libusb-dev` and install it ;
