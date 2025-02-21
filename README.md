@@ -4,9 +4,15 @@
 
 ### Modelos NXT
 - [NXTPrograms](https://www.nxtprograms.com/index.html)
+- [lego holder](https://www.thingiverse.com/thing:454405)
+- [rasp holder](https://www.thingiverse.com/thing:2727208)
+- [montaje](https://remoteqth.com/3d-din-rail-mount-clip.php)
 
 ### Reusar los motores NXT
 - [Tutorial YT](https://www.youtube.com/watch?v=Grg6tPpbUDM)
+- [tutorial blog](https://www-hackster-io.translate.goog/Notthemarsian/take-control-over-lego-power-functions-ee0bfa?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+
+
 
 Adapted from [Bricxcc](https://sourceforge.net/projects/bricxcc/) by John Hansen (see <http://bricxcc.sourceforge.net/nbc/>).
 This is based on the latest available release, [1.2.1.r4](https://sourceforge.net/projects/bricxcc/files/NBC_NXC/NBC%20release%201.2.1%20r4/).
